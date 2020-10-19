@@ -1,0 +1,1 @@
+INSERT INTO profile(description, dat_creation) VALUES ('ADMIN', SYSDATE()),('DOCTOR', SYSDATE()),('PATIENT', SYSDATE());
